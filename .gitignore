@@ -1,0 +1,11 @@
+# Entornos y temporales
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+# Documentos generados
+*.pdf
+*.log
+.DS_Store
